@@ -88,7 +88,7 @@
     <h4>Welcome to MC Robotics</h4>
         <ul>
             <li>Home</li>
-            <li><a href="Photos.html">photos</a></li>
+            <li><a href="photos.html">photos</a></li>
             <li><a href="documentation.html">documentation</a></li>
             <li><a href="team_members.html">team members</a></li>
             <li><a href="history.html">About us</a></li>
